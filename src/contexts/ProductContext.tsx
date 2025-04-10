@@ -18,7 +18,7 @@ const mockProducts: Product[] = [
     name: "Wireless Headphones",
     description: "Premium wireless headphones with noise cancellation and high-quality sound.",
     price: 149.99,
-    image: "https://images.unsplash.com/photo-1618160302696-80f9f4afcfe3?auto=format&fit=crop&q=80&w=500",
+    image: "https://res.cloudinary.com/dmuce4d8x/image/upload/v1744280383/still-life-tech-device_hx7nsq.jpg",
     category: "Electronics",
     featured: true
   },
@@ -70,7 +70,7 @@ const mockProducts: Product[] = [
     name: "Smart Speaker",
     description: "Voice-controlled smart speaker with premium sound quality.",
     price: 89.99,
-    image: "https://images.unsplash.com/photo-1589003077984-89a3988a82ca?auto=format&fit=crop&q=80&w=500",
+    image: "https://res.cloudinary.com/dmuce4d8x/image/upload/v1744280486/hand-touching-speakers-side-view_ftk3fw.jpg",
     category: "Electronics"
   },
   {
@@ -78,7 +78,7 @@ const mockProducts: Product[] = [
     name: "Desk Lamp",
     description: "Adjustable desk lamp with multiple brightness levels.",
     price: 49.99,
-    image: "https://images.unsplash.com/photo-1534189020751-98c959e02889?auto=format&fit=crop&q=80&w=500",
+    image: "https://res.cloudinary.com/dmuce4d8x/image/upload/v1744280554/lamp-bedroom_vm4tyf.jpg",
     category: "Home"
   }
 ];

@@ -1,4 +1,4 @@
-# Bienvenido a tu proyecto Lovable
+# Bienvenido a tu proyecto Shop Template
 
 ## Información del proyecto
 

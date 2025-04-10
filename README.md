@@ -1,73 +1,45 @@
-# Welcome to your Lovable project
+# Bienvenido a tu proyecto Lovable
 
-## Project info
+## Información del proyecto
 
-**URL**: https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53
+**URL**: [https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53](https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53)
 
-## How can I edit this code?
+## Descripción del proyecto
 
-There are several ways of editing your application.
+Este es un template gratuito diseñado para ayudarte a aprender y construir aplicaciones web modernas con React, TypeScript y Tailwind CSS. Este template incluye una estructura de proyecto bien organizada, componentes reutilizables y ejemplos de uso de las principales bibliotecas y frameworks del ecosistema React.
 
-**Use Lovable**
+**Características principales:**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53) and start prompting.
+*   Estructura de proyecto modular y escalable.
+*   Componentes de interfaz de usuario reutilizables basados en `shadcn-ui`.
+*   Ejemplos de implementación de contextos para la gestión del estado global (`CartContext`, `ProductContext`).
+*   Configuración optimizada para Vite para un desarrollo rápido y eficiente.
+*   Integración con Tailwind CSS para un diseño flexible y adaptable.
 
-Changes made via Lovable will be committed automatically to this repo.
+**Aprende a construir con este template:**
 
-**Use your preferred IDE**
+Este template es ideal para desarrolladores que buscan:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+*   Aprender las mejores prácticas en el desarrollo de aplicaciones React con TypeScript.
+*   Implementar un sistema de gestión de productos y carrito de compras.
+*   Utilizar componentes de interfaz de usuario pre-diseñados para acelerar el desarrollo.
+*   Personalizar y extender el template para crear sus propias aplicaciones web.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**[Enlace a la demo en Netlify](AQUI_DEBE_IR_EL_ENLACE_A_LA_DEMO)**
 
-Follow these steps:
+## ¿Cómo puedo editar este código?
+
+Sigue estos pasos:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Paso 1: Clona el repositorio usando la URL de Git del proyecto.
+git clone <TU_URL_GIT>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Paso 2: Navega al directorio del proyecto.
+cd <NOMBRE_DE_TU_PROYECTO>
 
-# Step 3: Install the necessary dependencies.
+# Paso 3: Instala las dependencias necesarias.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Paso 4: Inicia el servidor de desarrollo con recarga automática y una vista previa instantánea.
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)

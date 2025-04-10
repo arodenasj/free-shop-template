@@ -33,7 +33,7 @@ Sigue estos pasos:
 
 ```sh
 # Paso 1: Clona el repositorio usando la URL de Git del proyecto.
-git clone <TU_URL_GIT>
+git clone https://github.com/arodenasj/free-shop-template.git
 
 # Paso 2: Navega al directorio del proyecto.
 cd <NOMBRE_DE_TU_PROYECTO>

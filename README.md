@@ -2,7 +2,7 @@
 
 ## Información del proyecto
 
-**URL**: [https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53](https://lovable.dev/projects/d64f4384-fd55-4004-b4ec-ca6431dc8a53)
+**URL**: [https://free-shop-template.netlify.app/](https://free-shop-template.netlify.app/)
 
 ## Descripción del proyecto
 
@@ -25,7 +25,7 @@ Este template es ideal para desarrolladores que buscan:
 *   Utilizar componentes de interfaz de usuario pre-diseñados para acelerar el desarrollo.
 *   Personalizar y extender el template para crear sus propias aplicaciones web.
 
-**[Enlace a la demo en Netlify](AQUI_DEBE_IR_EL_ENLACE_A_LA_DEMO)**
+**[Enlace a la demo en Netlify](https://free-shop-template.netlify.app/)**
 
 ## ¿Cómo puedo editar este código?
 
